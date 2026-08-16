@@ -1,6 +1,40 @@
-﻿User-agent: *
+﻿﻿User-agent: *
 Allow: /
 Disallow: /assets/
 Disallow: /temp/
 
 Sitemap: https://eduprosuite-org.github.io/typing/sitemap_index.xml
+
+# GEO / AIO: AI Crawler Explicit Permissions
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://eduprosuite-org.github.io/typing/sitemap_index.xml
+Sitemap: https://eduprosuite-org.github.io/typing/llms.txt
