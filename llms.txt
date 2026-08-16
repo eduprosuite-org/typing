@@ -1,0 +1,13 @@
+﻿# EduProSuite Typing Speed Test - AI-Readable Site Summary
+# https://eduprosuite-org.github.io/typing/
+# Format: llms.txt
+
+> Free online typing speed test. Measure WPM and accuracy, practice typing with interactive tests.
+
+## About This Site
+
+- Publisher: EduProSuite
+- GitHub: https://github.com/eduprosuite-org
+- Live URL: https://eduprosuite-org.github.io/typing/
+- Hosted: GitHub Pages (static hosting)
+- Last Updated: 2026-08
